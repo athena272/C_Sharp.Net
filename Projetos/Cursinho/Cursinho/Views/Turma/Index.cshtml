@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Cursinho.Models.Turma>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.IdCurso)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DescricaoTurma)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.QtdeAlunos)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Turno)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.nomeCurso)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.IdCurso)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.DescricaoTurma)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.QtdeAlunos)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Turno)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ativo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.nomeCurso)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.IdTurma }) |
+            @Html.ActionLink("Details", "Details", new { id=item.IdTurma }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.IdTurma })
+        </td>
+    </tr>
+}
+
+</table>

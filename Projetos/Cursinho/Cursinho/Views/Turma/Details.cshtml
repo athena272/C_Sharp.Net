@@ -1,0 +1,66 @@
+﻿@model Cursinho.Models.Turma
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Turma</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.IdCurso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.IdCurso)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DescricaoTurma)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DescricaoTurma)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.QtdeAlunos)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.QtdeAlunos)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Turno)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Turno)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ativo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ativo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.nomeCurso)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.nomeCurso)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.IdTurma }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
