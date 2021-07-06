@@ -1,0 +1,6 @@
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\M01A08C\bin\Debug\M01A08C.exe.config
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\M01A08C\bin\Debug\M01A08C.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\M01A08C\bin\Debug\M01A08C.pdb
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\M01A08C\obj\Debug\M01A08C.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\M01A08C\obj\Debug\M01A08C.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\M01A08C\obj\Debug\M01A08C.pdb

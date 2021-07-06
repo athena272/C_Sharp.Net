@@ -1,0 +1,13 @@
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\bin\Debug\netcoreapp3.1\Teste1.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\bin\Debug\netcoreapp3.1\Teste1.deps.json
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.json
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\bin\Debug\netcoreapp3.1\Teste1.runtimeconfig.dev.json
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\bin\Debug\netcoreapp3.1\Teste1.dll
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\bin\Debug\netcoreapp3.1\Teste1.pdb
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfoInputs.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.AssemblyInfo.cs
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.dll
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.pdb
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Estudonauta\AmbienteModulo01\Teste1\obj\Debug\netcoreapp3.1\Teste1.genruntimeconfig.cache
