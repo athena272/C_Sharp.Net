@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\obj\Debug\ByteBank.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\00 - Formacao C#\Modulo 4\ByteBank\obj\Debug\ByteBank.pdb

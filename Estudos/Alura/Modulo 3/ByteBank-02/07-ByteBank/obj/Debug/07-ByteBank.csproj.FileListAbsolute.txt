@@ -1,0 +1,7 @@
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\obj\Debug\07-ByteBank.csprojAssemblyReference.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 3\ByteBank-02\07-ByteBank\obj\Debug\07-ByteBank.pdb
