@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ExemplosFundamentos.StructExample;
+using ExemplosFundamentos.Heranca;
 
 namespace ExemplosFundamentos
 {
@@ -10,11 +10,11 @@ namespace ExemplosFundamentos
     {
         static void Main(string[] args)
         {
-            PontoGeometrico ponto = new PontoGeometrico();
-            ponto.Latitude = "-40.0.0";
-            ponto.Longitude = "-20.0.0";
-            Console.WriteLine("Latitude:" + ponto.Latitude);
-            Console.WriteLine("Longitude:" + ponto.Longitude);
+            Pessoa pessoa = new Pessoa();
+            Pessoa pessoaA = new PessoaFisica();
+            Pessoa pessoaB = new PessoaJuridica();
+            (pessoaA as PessoaFisica).CPF = "9999999";
+            Console.WriteLine((pessoaA as PessoaFisica).CPF);
             Console.ReadLine();
         }
     }
