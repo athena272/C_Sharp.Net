@@ -46,6 +46,7 @@
     <Compile Include="Heranca\PessoaFisica.cs" />
     <Compile Include="Heranca\PessoaJuridica.cs" />
     <Compile Include="Heranca\Pessoa.cs" />
+    <Compile Include="Modificadores\Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StructAndClass\PontoMedio.cs" />
