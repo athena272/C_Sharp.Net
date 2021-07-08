@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{22182F60-354A-4D02-BFE4-0922E98677D2}</ProjectGuid>
+    <ProjectGuid>{C6F86E59-022F-4AEA-889B-9DE502F1D0DB}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ExemplosFundamentos</RootNamespace>
     <AssemblyName>ExemplosFundamentos</AssemblyName>
@@ -43,13 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Heranca\Pessoa.cs" />
     <Compile Include="Heranca\PessoaFisica.cs" />
     <Compile Include="Heranca\PessoaJuridica.cs" />
-    <Compile Include="PontoMedio.cs" />
+    <Compile Include="Heranca\Pessoa.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StructClass\PontoMedio.cs" />
+    <Compile Include="StructAndClass\PontoMedio.cs" />
+    <Compile Include="VirtualOverride\ContaEspecial.cs" />
+    <Compile Include="VirtualOverride\ContaBancaria.cs" />
+    <Compile Include="VirtualOverride\ContaUniversitaria.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

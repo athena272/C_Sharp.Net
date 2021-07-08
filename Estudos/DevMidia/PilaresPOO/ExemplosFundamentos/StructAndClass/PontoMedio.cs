@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace ExemplosFundamentos.StructExample
+namespace ExemplosFundamentos.StructAndClass
 {
     public struct PontoGeometrico
     {

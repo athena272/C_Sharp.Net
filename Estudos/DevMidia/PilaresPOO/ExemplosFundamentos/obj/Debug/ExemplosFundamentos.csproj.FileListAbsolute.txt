@@ -1,9 +1,7 @@
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\bin\Debug\ExemplosFundamentos.exe.config
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\bin\Debug\ExemplosFundamentos.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\bin\Debug\ExemplosFundamentos.pdb
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\obj\Debug\ExemplosFundamentos.csproj.AssemblyReference.cache
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\obj\Debug\ExemplosFundamentos.csproj.CoreCompileInputs.cache
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\obj\Debug\ExemplosFundamentos.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\StructClass\obj\Debug\ExemplosFundamentos.pdb
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\bin\Debug\ExemplosFundamentos.exe.config
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\bin\Debug\ExemplosFundamentos.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\bin\Debug\ExemplosFundamentos.pdb
 C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\obj\Debug\ExemplosFundamentos.csproj.AssemblyReference.cache
 C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\obj\Debug\ExemplosFundamentos.csproj.CoreCompileInputs.cache
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\obj\Debug\ExemplosFundamentos.exe
+C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\Cloud GitHub\C.Net\Estudos\DevMidia\PilaresPOO\ExemplosFundamentos\obj\Debug\ExemplosFundamentos.pdb
