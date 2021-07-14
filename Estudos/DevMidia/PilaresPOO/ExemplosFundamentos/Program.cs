@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using ExemplosFundamentos.VirtualOverride;
+using ExemplosFundamentos.Modificadores;
 
 namespace ExemplosFundamentos
 {
@@ -10,16 +10,10 @@ namespace ExemplosFundamentos
     {
         static void Main(string[] args)
         {
-            ContaBancaria contaBancariaA = new ContaBancaria();
-            Console.WriteLine("contaBancariaA: " + contaBancariaA.GetTarifaManutencao());
-            Console.WriteLine("...............");
-            ContaBancaria contaBancariaB = new ContaUniversitaria();
-            Console.WriteLine("contaBancariaB: " + contaBancariaB.GetTarifaManutencao());
-            Console.WriteLine("...............");
-            ContaBancaria contaBancariaC = new ContaEspecial();
-            Console.WriteLine("contaBancariaC: " + contaBancariaC.GetTarifaManutencao());
-            Console.WriteLine("...............");
-            Console.ReadLine();
+            Pessoa pessoa = new Pessoa();
+            pessoa.Nome = "Ricardo";
+            pessoa.Estado = "RJ";
+            pessoa.Endereco = "Rua XPTO";
         }
     }
 }

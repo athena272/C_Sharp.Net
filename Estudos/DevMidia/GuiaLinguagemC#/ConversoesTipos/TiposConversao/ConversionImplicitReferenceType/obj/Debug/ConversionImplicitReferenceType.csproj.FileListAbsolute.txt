@@ -1,0 +1,6 @@
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionImplicitReferenceType\bin\Debug\ConversionImplicitReferenceType.exe.config
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionImplicitReferenceType\bin\Debug\ConversionImplicitReferenceType.exe
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionImplicitReferenceType\bin\Debug\ConversionImplicitReferenceType.pdb
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionImplicitReferenceType\obj\Debug\ConversionImplicitReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionImplicitReferenceType\obj\Debug\ConversionImplicitReferenceType.exe
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionImplicitReferenceType\obj\Debug\ConversionImplicitReferenceType.pdb

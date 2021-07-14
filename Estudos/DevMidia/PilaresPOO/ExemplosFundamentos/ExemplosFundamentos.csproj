@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AbstractExemplo\ClasseBase.cs" />
+    <Compile Include="AbstractExemplo\Cliente.cs" />
+    <Compile Include="AbstractExemplo\Venda.cs" />
     <Compile Include="Heranca\PessoaFisica.cs" />
     <Compile Include="Heranca\PessoaJuridica.cs" />
     <Compile Include="Heranca\Pessoa.cs" />
@@ -50,6 +53,8 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StructAndClass\PontoMedio.cs" />
+    <Compile Include="V2\Conexao.cs" />
+    <Compile Include="V2\PessoaFisica.cs" />
     <Compile Include="VirtualOverride\ContaEspecial.cs" />
     <Compile Include="VirtualOverride\ContaBancaria.cs" />
     <Compile Include="VirtualOverride\ContaUniversitaria.cs" />

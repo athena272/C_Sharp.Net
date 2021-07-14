@@ -1,0 +1,7 @@
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\bin\Debug\ConversionExplicitRefenceType.exe.config
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\bin\Debug\ConversionExplicitRefenceType.exe
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\bin\Debug\ConversionExplicitRefenceType.pdb
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\obj\Debug\ConversionExplicitRefenceType.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\obj\Debug\ConversionExplicitRefenceType.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\obj\Debug\ConversionExplicitRefenceType.exe
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\ConversionExplicitRefenceType\obj\Debug\ConversionExplicitRefenceType.pdb

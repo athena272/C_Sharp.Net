@@ -1,0 +1,7 @@
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\bin\Debug\TiposConversao.exe.config
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\bin\Debug\TiposConversao.exe
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\bin\Debug\TiposConversao.pdb
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\obj\Debug\TiposConversao.csproj.AssemblyReference.cache
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\obj\Debug\TiposConversao.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\obj\Debug\TiposConversao.exe
+C:\Users\guilh\Documents\TI\GitHubCloud\C_Sharp.Net\Estudos\DevMidia\GuiaLinguagemC#\ConversoesTipos\TiposConversao\TiposConversao\obj\Debug\TiposConversao.pdb
