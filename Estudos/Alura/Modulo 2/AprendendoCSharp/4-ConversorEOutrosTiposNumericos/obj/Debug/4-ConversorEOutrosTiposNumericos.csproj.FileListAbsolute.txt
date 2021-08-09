@@ -1,6 +1,0 @@
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\4-ConversorEOutrosTiposNumericos\bin\Debug\4-ConversorEOutrosTiposNumericos.exe.config
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\4-ConversorEOutrosTiposNumericos\bin\Debug\4-ConversorEOutrosTiposNumericos.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\4-ConversorEOutrosTiposNumericos\bin\Debug\4-ConversorEOutrosTiposNumericos.pdb
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\4-ConversorEOutrosTiposNumericos\obj\Debug\4-ConversorEOutrosTiposNumericos.csproj.CoreCompileInputs.cache
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\4-ConversorEOutrosTiposNumericos\obj\Debug\4-ConversorEOutrosTiposNumericos.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\4-ConversorEOutrosTiposNumericos\obj\Debug\4-ConversorEOutrosTiposNumericos.pdb

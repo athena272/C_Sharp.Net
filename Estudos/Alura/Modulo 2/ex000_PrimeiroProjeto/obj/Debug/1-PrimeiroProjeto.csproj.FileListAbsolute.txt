@@ -1,7 +1,0 @@
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\bin\Debug\ex000_PrimeiroProjeto.exe.config
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\bin\Debug\ex000_PrimeiroProjeto.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\bin\Debug\ex000_PrimeiroProjeto.pdb
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csprojAssemblyReference.cache
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\obj\Debug\1-PrimeiroProjeto.csproj.CoreCompileInputs.cache
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\obj\Debug\ex000_PrimeiroProjeto.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\ex000_PrimeiroProjeto\obj\Debug\ex000_PrimeiroProjeto.pdb

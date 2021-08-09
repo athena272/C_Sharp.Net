@@ -1,6 +1,0 @@
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.exe.config
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\8-Condicionais2\bin\Debug\8-Condicionais2.pdb
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.csproj.CoreCompileInputs.cache
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.exe
-C:\Users\guilh\OneDrive\Documentos\TI\Programming_Languagens\C# e POO\Alura\Modulo 2\AprendendoCSharp\8-Condicionais2\obj\Debug\8-Condicionais2.pdb
